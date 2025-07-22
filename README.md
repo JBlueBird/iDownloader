@@ -1,4 +1,4 @@
-![iDownloader App Icon](https://github.com/tograh/testrepository/3DTest.png)
+![iDownloader App Icon](iDownloader-iOS-Default-1024x1024@2x.png)
 
 **iDownloader**
 
