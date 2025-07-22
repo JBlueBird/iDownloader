@@ -12,5 +12,8 @@ iDownloader is so simple you can easily distribute ALL your apps in just 5 minut
 
 
 ```
-hi
+set appsList to {¬
+	{name:"Rocket", downloadURL:"https://jbluebird.github.io/Install-My-Apps/Install%20Rocket.dmg", internalName:"Rocket"}, ¬
+	{name:"iCompress", downloadURL:"https://jbluebird.github.io/Install-My-Apps/Install%20iCompress%20Beta%201.1.dmg", internalName:"iCompress"}}
 ```
+This is my array that I use for distributing all my apps with iDownloader.
