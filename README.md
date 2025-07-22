@@ -44,3 +44,4 @@ It's all simple, with barely any info you need to put in to work.
 
 **Licensing**
 
+MIT, do what you want, but no promises that it might break 🙃
