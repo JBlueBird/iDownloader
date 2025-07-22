@@ -42,7 +42,7 @@ iDownloader will:
 
 Just look at that beautiful installer you just created!
 
-<img src="wow.png" alt="iDownloader App Icon" style="width: 200px;">
+<img src="wow.png" alt="iDownloader App Icon" style="width: 400px;">
 
 
 **iDownloader does that.**
