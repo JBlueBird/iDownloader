@@ -44,11 +44,8 @@ Just look at that beautiful installer you just created!
 
 <img src="wow.png" alt="iDownloader App Icon" style="width: 400px;">
 
-
-**iDownloader does that.**
-
-It's all simple, with barely any info you need to put in to work.
-
 **Licensing**
 
 MIT, do what you want, but no promises that it might break 🙃
+
+Copyright Birdie Works '25. All rights reserved.
