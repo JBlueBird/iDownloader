@@ -16,4 +16,8 @@ set appsList to {¬
 	{name:"Rocket", downloadURL:"https://jbluebird.github.io/Install-My-Apps/Install%20Rocket.dmg", internalName:"Rocket"}, ¬
 	{name:"iCompress", downloadURL:"https://jbluebird.github.io/Install-My-Apps/Install%20iCompress%20Beta%201.1.dmg", internalName:"iCompress"}}
 ```
-This is my array that I use for distributing all my apps with iDownloader.
+This is my array that I use for distributing all my apps with iDownloader. I will explain this and how it works. Take my app Rocket for example:
+
+```
+{name:"Rocket", downloadURL:"https://jbluebird.github.io/Install-My-Apps/Install%20Rocket.dmg", internalName:"Rocket"}
+```
