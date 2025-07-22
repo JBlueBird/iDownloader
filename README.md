@@ -27,3 +27,12 @@ This is my array that I use for distributing all my apps with iDownloader. I wil
 ```name:"Rocket"``` is the display name in which the app will appear in the install app picker.
 ```downloadURL:"https://jbluebird.github.io/Install-My-Apps/Install%20Rocket.dmg"``` is the location of the app DMG on your server.
 Finally, ```internalName:"Rocket"``` is the .app file's name inside your DMG. In my case, in my Install Rocket DMG, the .app file inside is named Rocket.app, so I will put in ```Rocket```
+
+**With this info you put in, what can iDownloader do?**
+
+iDownloader will:
+
+- Download the DMG online into /var/tmp
+- Mount the DMG
+- Copy the app outside of the DMG onto the desktop (that's why specifying the .app name with ```internalName:``` in your DMG is so important)
+- Make the app executable (if not already)
