@@ -21,3 +21,7 @@ This is my array that I use for distributing all my apps with iDownloader. I wil
 ```
 {name:"Rocket", downloadURL:"https://jbluebird.github.io/Install-My-Apps/Install%20Rocket.dmg", internalName:"Rocket"}
 ```
+
+```name:"Rocket"``` is the display name in which the app will appear in the install app picker.
+
+
