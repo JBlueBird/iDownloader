@@ -1,4 +1,4 @@
-![iDownloader App Icon|100x100](iDownloader-iOS-Default-1024x1024@2x.png)
+<img src="iDownloader-iOS-Default-1024x1024@2x.png" alt="iDownloader App Icon" style="width: 200px;">
 
 **iDownloader**
 
