@@ -37,3 +37,10 @@ iDownloader will:
 - Copy the app outside of the DMG onto the desktop (that's why specifying the .app name with ```internalName:``` in your DMG is so important)
 - Make the app executable (if not already)
 - Unmount the DMG and delete the DMG file downloaded
+
+**iDownloader does that.**
+
+It's all simple, with barely any info you need to put in to work.
+
+**Licensing**
+
