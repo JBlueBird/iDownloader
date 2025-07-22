@@ -38,6 +38,10 @@ iDownloader will:
 - Make the app executable (if not already)
 - Unmount the DMG and delete the DMG file downloaded
 
+**Annd you are done!**
+
+Just look at that beautiful installer you just created!
+
 **iDownloader does that.**
 
 It's all simple, with barely any info you need to put in to work.
